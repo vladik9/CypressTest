@@ -251,7 +251,6 @@ describe("Connect to site", () => {
     // ).click();
     // cy.get("#root > div > div > nav > div > a > svg").click();
 
-    
     //end of program
   });
 });
